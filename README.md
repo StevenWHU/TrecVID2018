@@ -1,6 +1,12 @@
 # TrecVID2018
 所有程序为TrecVID2018人脸部分的处理代码。
 
+## 文件夹“similarity_compute”相似度计算
+  
+## 文件夹“topic_test”topic任务测试  
+
+## 文件夹“topic_person_find”在keyframe中筛选topic人物  
+
 ## 1、 “info\_integration\_trid4.m”文件说明
 ### 功能：
 将每张keyframe中检测到的人脸与参考集（reference）中的人脸比较后，取相似度最高的人脸图片信息，并保存到mat文件中。
