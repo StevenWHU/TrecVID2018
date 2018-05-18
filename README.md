@@ -9,9 +9,9 @@ TrecVID2018人脸部分的处理代码。
 
 ### 3.“topic_person_find”在keyframe中筛选topic人物  
 
+***
 ## 文件说明：
 
-***
 ### 1. “info\_integration\_trid4.m”文件说明
 #### 功能：
 将每张keyframe中检测到的人脸与参考集（reference）中的人脸比较后，取相似度最高的人脸图片信息，并保存到mat文件中。  
